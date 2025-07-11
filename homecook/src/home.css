@@ -1,0 +1,42 @@
+.home{
+    padding: 30px;
+    text-align: center;
+}
+
+.menulist{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.foodcard{
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 20px;
+    width: 250px;
+    background-color: rgb(90, 176, 179);
+    box-shadow: 10px 10px 10px rgb(79, 79, 92);
+    font-style: italic;
+    font-weight: bold;
+}
+
+.foodimage{
+    width: 100%;
+    height: auto;
+    border-radius: 4px;   
+}
+
+.orderbtn{
+    width: 60%;
+    height: auto;
+    background-color: rgb(16, 28, 68);
+    color: whitesmoke;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.orderbtn:hover{
+    color: rgba(95, 86, 86, 0.774);
+}

@@ -1,0 +1,30 @@
+.head{
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(16, 28, 68);
+}
+
+.logo{
+    width: 120px;
+    height: 120px;
+}
+
+.kitchen{
+    font-size: 30px;
+    color: whitesmoke;
+    margin-top: 10px;
+}
+
+nav{
+    margin-top: 15px;
+}
+
+nav a{
+    margin: 0 100px;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color: rgb(153, 151, 151);
+}

@@ -1,0 +1,59 @@
+.checkout{
+    padding: 30px;
+}
+
+.checkout h2{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.info{
+    margin-top: 5px;
+}
+
+.card{
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    background-color: rgb(90, 176, 179);
+    margin-top: 50px;
+}
+
+.card h3{
+    font-weight: bold;
+}
+
+.card p{
+   
+    font-size: 13px;
+    font-style: italic;
+}
+
+.detail{
+    margin-top: 50px;
+}
+
+.detail textarea{
+    width: 90%;
+    padding: 20px;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.btn{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    padding: 20px 20px;
+    background-color: rgb(90, 176, 179);
+    box-shadow: 10px 10px 10px rgb(79, 79, 92);
+    color:black;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 14px;
+    width: 100%;
+}
+
+.btn:hover{
+    color: rgb(230, 230, 230);
+}
