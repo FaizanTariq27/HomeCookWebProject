@@ -33,4 +33,5 @@
 
 ## 📘 License
 
-This project is created for educational purposes only.
+This project is created strictly for educational showcase purposes only.  
+**No permission is granted to copy, use, modify, or distribute any part of this code.**
